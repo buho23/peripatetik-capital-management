@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buho23.github.io/static/css/main.04c7f6a1.css",
+    "main.js": "/buho23.github.io/static/js/main.914ff8a3.js",
+    "static/js/787.cb359a9a.chunk.js": "/buho23.github.io/static/js/787.cb359a9a.chunk.js",
+    "index.html": "/buho23.github.io/index.html",
+    "main.04c7f6a1.css.map": "/buho23.github.io/static/css/main.04c7f6a1.css.map",
+    "main.914ff8a3.js.map": "/buho23.github.io/static/js/main.914ff8a3.js.map",
+    "787.cb359a9a.chunk.js.map": "/buho23.github.io/static/js/787.cb359a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04c7f6a1.css",
+    "static/js/main.914ff8a3.js"
+  ]
+}
