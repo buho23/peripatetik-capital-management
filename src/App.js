@@ -11,7 +11,7 @@ function App() {
         <div>
         <a class="buy-with-crypto"
         href="https://commerce.coinbase.com/checkout/6bda2c8f-70a9-4c8e-ba12-b03a821d645a">
-        Federal Reserve Minutes Memos - Annual Subscription
+        Buy with crypto: Federal Reserve Minutes Memos - Annual Subscription
         </a>
         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
         </script>
