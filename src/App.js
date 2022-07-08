@@ -11,11 +11,13 @@ function App() {
         <div>
         <a 
         href="https://commerce.coinbase.com/checkout/6bda2c8f-70a9-4c8e-ba12-b03a821d645a">
-        The Federal Reserve Observer
+        The Federal Reserve Observer - pay with crypto
         </a>
         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
         </script>
         </div>
+        <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
+          Pay with card
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
       </header>
