@@ -17,7 +17,7 @@ function App() {
         </script>
         </div>
         <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
-          Pay with card
+          The FX Observer 
         </a>
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
