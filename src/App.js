@@ -18,6 +18,7 @@ function App() {
         </div>
         <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
           Pay with card
+        </a>
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
       </header>
