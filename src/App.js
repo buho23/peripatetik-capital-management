@@ -20,7 +20,7 @@ function App() {
         <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
           The FX Observer
         </a>
-        <p> Price: $750,000. Key trends in foreign exchange markets emerging from divergent central bank policies create unique opportunities discussed in The FX Observer. Clients receive The FX Observer one time per month.</p>
+        <p> Price: $750,000. Key trends in foreign exchange markets emerging from divergent central bank policies create unique opportunities discussed in The FX Observer. Clients receive The FX Observer one time per month at the email provided during checkout.</p>
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
       </header>
