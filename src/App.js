@@ -16,11 +16,11 @@ function App() {
         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
         </script>
         </div>
-        <p> Price: $1,000,000. Clients receive 1x monthly updates at the email provided during checkout. The Federal Reserve Observer provides strategies in commodities, crypto, ETFs, and foreign exchange markets.  The latest macroeconomic discussions on interest rates, inflation, growth, and employment are the prevailing topics of this monthly periodical. .</p>
+        <p>Clients receive 1x monthly updates at the email provided during checkout. The Federal Reserve Observer provides strategies in commodities, crypto, ETFs, and foreign exchange markets.  The latest macroeconomic discussions on interest rates, inflation, growth, and employment are the prevailing topics of this monthly periodical. .</p>
         <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
           The FX Observer
         </a>
-        <p> Price: $750,000. Clients receive  1x monthly updates at the email provided during checkout. Key trends in foreign exchange markets emerging from divergent central bank policies create unique opportunities discussed in The FX Observer. </p>
+        <p>Clients receive  1x monthly updates at the email provided during checkout. Key trends in foreign exchange markets emerging from divergent central bank policies create unique opportunities discussed in The FX Observer. </p>
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
       </header>
