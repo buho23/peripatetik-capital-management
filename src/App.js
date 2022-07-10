@@ -16,7 +16,7 @@ function App() {
         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
         </script>
         </div>
-        <p>Clients receive 1x monthly updates at the email provided during checkout. The Federal Reserve Observer provides strategies in commodities, crypto, ETFs, and foreign exchange markets.  The latest macroeconomic discussions on interest rates, inflation, growth, and employment are the prevailing topics of this monthly periodical. .</p>
+        <p>Clients receive 1x monthly updates at the email provided during checkout. The Federal Reserve Observer provides strategies in commodities, crypto, ETFs, and foreign exchange markets.  The latest macroeconomic discussions on interest rates, inflation, growth, and employment are the prevailing topics of this monthly periodical.</p>
         <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
           The FX Observer
         </a>
