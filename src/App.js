@@ -11,16 +11,12 @@ function App() {
          <h3>Products</h3>
         <a 
         href="https://commerce.coinbase.com/checkout/6bda2c8f-70a9-4c8e-ba12-b03a821d645a">
-        The Federal Reserve Observer - pay with crypto
+        The Federal Reserve Observer. $360 per annum.
         </a>
         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
         </script>
         </div>
-        <p>Clients receive 1x monthly updates at the email provided during checkout. The Federal Reserve Observer provides strategies in commodities, crypto, ETFs, and foreign exchange markets.  The latest macroeconomic discussions on interest rates, inflation, growth, and employment are the prevailing topics of this monthly periodical.</p>
-        <a href="https://buy.stripe.com/bIY28A29caiS9wYcMM">
-          The FX Observer
-        </a>
-        <p>Clients receive  1x monthly updates at the email provided during checkout. Key trends in foreign exchange markets emerging from divergent central bank policies create unique opportunities discussed in The FX Observer. </p>
+        <p>Clients receive monthly updates at the email provided during checkout. The Federal Reserve Observer synthesizes trends in tax resistance, economics, crypto, commodities, and ETFs.</p>
         <p>hello@peripetatik.io</p>
         {/* <p> </p> */}
       </header>
